@@ -1,8 +1,8 @@
-using Lab367Lab3.Models;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
+using MvcMovie.Models;
 using System.Diagnostics;
 
-namespace Lab367Lab3.Controllers
+namespace MvcMovie.Controllers
 {
     public class HomeController : Controller
     {

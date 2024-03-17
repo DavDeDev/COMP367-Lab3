@@ -1,0 +1,8 @@
+C:\Users\pietr\source\repos\Lab367Lab3\obj\Debug\net8.0\Lab367Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pietr\source\repos\Lab367Lab3\obj\Debug\net8.0\Lab367Lab3.AssemblyInfoInputs.cache
+C:\Users\pietr\source\repos\Lab367Lab3\obj\Debug\net8.0\Lab367Lab3.AssemblyInfo.cs
+C:\Users\pietr\source\repos\Lab367Lab3\obj\Debug\net8.0\Lab367Lab3.csproj.CoreCompileInputs.cache
+C:\Users\pietr\source\repos\Lab367Lab3\obj\Debug\net8.0\Lab367Lab3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pietr\source\repos\Lab367Lab3\obj\Debug\net8.0\Lab367Lab3.RazorAssemblyInfo.cache
+C:\Users\pietr\source\repos\Lab367Lab3\obj\Debug\net8.0\Lab367Lab3.RazorAssemblyInfo.cs
+C:\Users\pietr\source\repos\Lab367Lab3\obj\Debug\net8.0\Lab367Lab3.sourcelink.json

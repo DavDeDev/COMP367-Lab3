@@ -1,4 +1,4 @@
-namespace Lab367Lab3.Models
+namespace MvcMovie.Models
 {
     public class ErrorViewModel
     {
